@@ -32,7 +32,7 @@ void Menu() {
 
 }
 
-// LIMPRA A TELA DEPOIS DA ESCOLHA DE UMA OPÇÃO
+// LIMPAR A TELA DEPOIS DA ESCOLHA DE UMA OPÇÃO
 void Limpar_Tela() {
 
     system("cls");
@@ -388,3 +388,6 @@ int main(void) {
     }while(opcao != 0);
 
 }
+
+// CRIADO POR -> JORGE LUIS MOREIRA GOMES FILHO
+// DATA: 15/07/2021
